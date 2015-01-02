@@ -1,0 +1,32 @@
+{
+  "name": "SystemJS Example",
+  "version": "0.0.0",
+  "description": "Example of using SystemJS ES6 Module loading",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "js/lib"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "jquery": "~2.1.2",
+    "handlebars.js": "~2.0.0",
+    "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.2.0/chosen_v1.2.0.zip",
+    "chosen-bootstrap": "~1.0.3",
+    "system.js": "~0.10.2",
+    "nvd3": "~1.1.15-beta",
+    "ionicons": "~2.0.0",
+    "fontawesome": "~4.2.0",
+    "bootstrap-daterangepicker": "~1.3.17",
+    "jquery.selectBoxIt": "~3.8.1",
+    "datetimepicker": "~2.4.1",
+    "bootstrap-multiselect": "~0.9.10"
+  },
+  "resolutions": {
+    "bootstrap": "~3.3.1"
+  }
+}
